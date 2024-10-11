@@ -7,7 +7,6 @@ f = pyfiglet.Figlet(font='slant')
 print(f.renderText("CCoinBox"))
 
 
-
 def main():
     coinBox = CCoinBox()
     action = True
